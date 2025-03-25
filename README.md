@@ -1,14 +1,14 @@
 #Application setup steps
 
-#git clone 
-#cd todo
-#npm i
-#npm start
+*git clone 
+*cd todo
+*npm i
+*npm start
 
-#Styling- tailwind css
-#State Management- redux
+*Styling- tailwind css
+*State Management- redux
 
-#Application structure
+*Application structure
 
 /**
  * Head
@@ -19,6 +19,8 @@
  *       Status Container("Pending", "In Progress", "Completed")
  *       To-do cards   
  */
+
+ 
 
 
  
