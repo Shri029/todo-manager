@@ -1,26 +1,32 @@
-#Application setup steps
+# Application Setup Steps
 
-*git clone 
-*cd todo
-*npm i
-*npm start
+* git clone  
+* cd todo  
+* npm i  
+* npm start  
 
-*Styling- tailwind css
-*State Management- redux
+---
 
-*Application structure
+### Styling
+- Tailwind CSS
 
-/**
- * Head
- * Body
- *  MainContainer
- *    Sidebar
- *    Main Container
- *       Status Container("Pending", "In Progress", "Completed")
- *       To-do cards   
- */
+### State Management
+- Redux
 
- 
+---
+
+## Application Structure
+```
+├── Head
+└── Body
+    └── MainContainer
+        ├── Sidebar
+        └── Main Container
+            ├── Status Container ("Pending", "In Progress", "Completed")
+            └── To-do Cards
+```
+
+---
+
+## 📺 Demo
 [Demo](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
-
- 
