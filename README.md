@@ -16,8 +16,8 @@
  *  MainContainer
  *    Sidebar
  *    Main Container
- *      Status Container("Pending", "In Progress", "Completed")
- *        To-do cards   
+ *       Status Container("Pending", "In Progress", "Completed")
+ *       To-do cards   
  */
 
 
