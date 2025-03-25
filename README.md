@@ -1,10 +1,12 @@
 #Application setup steps
 
-git clone 
-cd todo
-npm i
-npm start
+#git clone 
+#cd todo
+#npm i
+#npm start
 
+#Styling- tailwind css
+#State Management- redux
 
 #Application structure
 
@@ -18,6 +20,5 @@ npm start
  *        To-do cards   
  */
 
-#Styling- tailwind css
-#State Management- redux
+
  
