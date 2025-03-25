@@ -23,7 +23,7 @@
         ├── Sidebar
         └── Main Container
             ├── Status Container ("Pending", "In Progress", "Completed")
-            └── To-do Cards
+                └── To-do Cards
 ```
 
 ---
