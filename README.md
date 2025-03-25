@@ -1,7 +1,7 @@
 # Application Setup Steps
 
 * git clone  
-* cd todo  
+* cd todo-manager
 * npm i  
 * npm start  
 
