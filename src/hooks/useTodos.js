@@ -8,7 +8,7 @@ const useTodos = () => {
 
     // fetch todos videos and updating store with todo lists
     const fetchTodos = async () => {
-        const res = await fetch('https://dummyjson.com/todos?limit=10');
+        const res = await fetch('https://dummyjson.com/todos?limit=11');
         const data = await res.json();
         dispatch(setTodos(data.todos));
       };

@@ -19,7 +19,7 @@ export const Head = () => {
                 src={logo}/>
             </a>  
         </div>
-        <h1 className='flex justify-center text-center text-blue-500 font-medium text-3xl'>Todo Manager</h1> 
+        <h1 className='flex justify-center text-center text-blue-500 font-medium text-3xl'>Todo</h1> 
         <div className='flex justify-end gap-4 mr-4'>
         <div className="flex w-1/2 p-2 border border-solid border-b-2 rounded-full">    
             <img className="h-5 mx-2" alt="search" src={search}/>       
