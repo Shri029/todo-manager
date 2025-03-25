@@ -1,5 +1,6 @@
-# Application Setup Steps
+#**Todo Manager**b
 
+## Application Setup Steps
 * git clone - https://github.com/Shri029/todo-manager.git
 * cd todo-manager
 * npm i  
