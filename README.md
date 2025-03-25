@@ -1,4 +1,4 @@
-#**Todo Manager**b
+# **Todo Manager**
 
 ## Application Setup Steps
 * git clone - https://github.com/Shri029/todo-manager.git
