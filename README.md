@@ -32,10 +32,9 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 
 ```
 ## Demo 
-[Demo](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
-[Hosted here](https://Shri029.github.io/todo-manager)
+[Video](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
 
-
+[Todo Manager Application Link](https://Shri029.github.io/todo-manager)
 ```
 
 * Status - "Pending", "in-progress", "Complete" lists are being handeled on the basis of completed- true/false and diding the list in two.
