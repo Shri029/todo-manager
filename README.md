@@ -32,8 +32,8 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 
 ```
 ## Demo 
+[Demo](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
 [Hosted here](https://Shri029.github.io/todo-manager)
-[Demo Video](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
 
 
 ```
