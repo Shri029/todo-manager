@@ -11,7 +11,7 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 * cd todo-manager  
 * npm install  
 * npm start  
----
+
 
 ## Application Structure
 ├── Head
@@ -22,16 +22,15 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
             ├── Status Container ("Pending", "In Progress", "Completed")
             └── To-do Cards
 
----
 
----
+
 ### Styling
 - Tailwind CSS
 
 ### State Management
 - Redux
 
----
+
 ```
 
 ## Demo 
@@ -39,6 +38,7 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 
 [Todo Manager Application Link](https://Shri029.github.io/todo-manager)
 ---
+
 ```
 
 #Approach taken
