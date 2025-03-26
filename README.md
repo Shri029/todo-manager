@@ -23,15 +23,17 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
             └── To-do Cards
 
 ---
-```
+
+---
 ### Styling
 - Tailwind CSS
 
 ### State Management
 - Redux
 
-```
 ---
+```
+
 ## Demo 
 [Video](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
 
