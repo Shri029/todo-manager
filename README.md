@@ -14,7 +14,6 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 ---
 
 ## Application Structure
-```
 ├── Head
 └── Body
     └── MainContainer
@@ -22,7 +21,6 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
         └── Main Container
             ├── Status Container ("Pending", "In Progress", "Completed")
             └── To-do Cards
-```
 
 ---
 
