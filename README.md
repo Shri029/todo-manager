@@ -6,12 +6,11 @@ A Kanban-style Todo Manager built with **React**, **Redux**, and **TailwindCSS**
 
 ## 📥 Installation & Setup
 
-```bash
-git clone https://github.com/Shri029/todo-manager.git
-cd todo-manager
-npm install
-npm start
-
+```
+* git clone https://github.com/Shri029/todo-manager.git
+* cd todo-manager  
+* npm install  
+* npm start  
 ---
 
 ## Application Structure
@@ -20,12 +19,18 @@ npm start
 └── Body
     └── MainContainer
         ├── Sidebar
-        └── Content Area
-            ├── Status Containers (Pending | In Progress | Completed)
-                └── Todo Cards
+        └── Main Container
+            ├── Status Container ("Pending", "In Progress", "Completed")
+            └── To-do Cards
 ```
 
 ---
+
+### Styling
+- Tailwind CSS
+
+### State Management
+- Redux
 
 ## Demo 
 [Video](https://github.com/user-attachments/assets/56d28bae-e2c3-4bdc-9758-57dd799147e2)
@@ -35,5 +40,5 @@ npm start
 
 * Status - "Pending", "in-progress", "Complete" lists are being handeled on the basis of completed- true/false and diding the list in two.
 * Possibly due to this mapping some issue is occuring in darg and drop feature, need to look into this further to make this work.
-* Limitation:- Drag and drop feature giving error-> Need to refresh after that
+* Limitation:- Drag and drop feature working on mobile but giving issue on desktop-> Need to refresh on desktop if error occurs
  
